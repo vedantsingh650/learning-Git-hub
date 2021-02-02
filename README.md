@@ -1,4 +1,2 @@
-new line locallyyyyyyyyy----------------------------------locallll
-##########################################################################3# learning-Git-hub
-learning github from udemy
+this line added during conflict managemetnt
 new line added
