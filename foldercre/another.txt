@@ -1,2 +1,4 @@
-one more file added for fast forwawrd mege
+firs line replcaed by feature2branch 
 this files modify locally
+
+this line added feature2branch
